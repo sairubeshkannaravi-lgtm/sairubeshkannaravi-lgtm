@@ -207,8 +207,8 @@ class RubeshkannaRavichandran:
 
 | 🎓 Degree | 🏛️ Institution | 📅 Year | 🏅 Score |
 |:---|:---|:---:|:---:|
-| Master of Computer Applications (MCA) | K.S.R College of Engineering | 2023 – 2025 | 88 |
-| Bachelor of Computer Applications (BCA) | Nandha Arts and Science College | 2020 – 2023 | 82 |
+| Master of Computer Applications (MCA) | K.S.R College of Engineering | 2023 – 2025 | 89 |
+| Bachelor of Computer Applications (BCA) | Nandha Arts and Science College | 2020 – 2023 | 87 |
 
 </div>
 
