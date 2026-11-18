@@ -91,7 +91,7 @@ class Developer:
 
 <div align="center">
   <a href="https://github.com/sairubeshkannaravi-lgtm">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sairubeshkannaravi-lgtm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sairubeshkannaravi-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub stats"/>
   </a>
   <a href="https://github.com/sairubeshkannaravi-lgtm">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairubeshkannaravi-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top languages"/>
