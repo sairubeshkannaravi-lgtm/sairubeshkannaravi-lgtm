@@ -214,8 +214,8 @@ class Developer:
 
 | Degree | Institution | Year | Score |
 |:--|:--|:-:|:-:|
-| Master of Computer Applications | K.S.R College of Engineering | 2023 – 2025 | — |
-| Bachelor of Computer Applications | Nandha Arts and Science College | 2020 – 2023 | — |
+| Master of Computer Applications | K.S.R College of Engineering | 2023 – 2025 | 89 |
+| Bachelor of Computer Applications | Nandha Arts and Science College | 2020 – 2023 | 81 |
 
 </div>
 
